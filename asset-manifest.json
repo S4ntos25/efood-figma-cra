@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/efood-figma-cra/static/css/main.e6c13ad2.css",
+    "main.js": "/efood-figma-cra/static/js/main.41311613.js",
+    "static/js/453.692fdc8d.chunk.js": "/efood-figma-cra/static/js/453.692fdc8d.chunk.js",
+    "index.html": "/efood-figma-cra/index.html",
+    "main.e6c13ad2.css.map": "/efood-figma-cra/static/css/main.e6c13ad2.css.map",
+    "main.41311613.js.map": "/efood-figma-cra/static/js/main.41311613.js.map",
+    "453.692fdc8d.chunk.js.map": "/efood-figma-cra/static/js/453.692fdc8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.41311613.js"
+  ]
+}
