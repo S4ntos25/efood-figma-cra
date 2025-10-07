@@ -2,6 +2,7 @@
   "name": "efood-figma-cra",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://S4ntos25.github.io/efood-figma-cra",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -23,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.34"
+    "@types/styled-components": "^5.1.34",
+    "gh-pages": "^6.3.0"
   }
 }
